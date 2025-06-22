@@ -1,3 +1,5 @@
 crewai
 streamlit
 requests
+# prevent chromadb
+chromadb==0.0.0
